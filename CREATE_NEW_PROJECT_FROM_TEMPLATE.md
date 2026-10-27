@@ -18,7 +18,7 @@
 - Run:
 
 ```
-npx create-next-app@latest '<my-next-app>' -e https://github.com/alexx-kis/next_template
+npx create-next-app@latest '<my-next-app>' -e https://github.com/aeronkelleer/next_template
 ```
 
 - Replace `<my-next-app>` with your new project name.
@@ -65,7 +65,7 @@ git push -u origin main
 
 ## 1. Create from template using degit
 
-`npx degit alexx-kis/vite_template my-vite-app`
+`npx degit aeronkelleer/vite_template my-vite-app`
 
 ## 2. Go into the folder
 
@@ -100,9 +100,9 @@ Tiny cheat sheet
 
 ### Next from template:
 
-`npx create-next-app@latest NAME -e https://github.com/alexx-kis/next_template`
+`npx create-next-app@latest NAME -e https://github.com/aeronkelleer/next_template`
 
 
 ### Vite from template:
 
-`npx degit alexx-kis/vite_template NAME`
+`npx degit aeronkelleer/vite_template NAME`
